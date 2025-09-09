@@ -84,7 +84,7 @@ The system consists of 4 specialized agents:
 1. **Clone the repository**:
 ```bash
 git clone <repository-url>
-cd rankx-product-research
+cd ai-product-procurement
 ```
 
 2. **Install dependencies**:
@@ -217,9 +217,3 @@ The system generates several output files:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Support
-
-For issues and questions:
-1. Check the troubleshooting section
-2. Review the API documentation for external services
-3. Create an issue in the repository with detailed error information
