@@ -8,7 +8,26 @@ This project addresses this challenge by simulating the operations of a procurem
 ## Table of Contents  
 
 - [Project Description](#-project-description)  
-- 
+- [Features](#features)  
+- [Tools & Technologies](#-tools--technologies)  
+- [Agents Overview](#agents-overview-)  
+- [Workflow](#workflow)  
+- [Installation](#installation)  
+- [Usage](#usage)  
+  - [Option 1: FastAPI Interface](#option-1-fastapi-interface)  
+  - [Option 2: Streamlit Interface](#option-2-streamlit-interface)  
+- [API Endpoints](#api-endpoints)  
+- [File Structure](#file-structure)  
+- [Output Files](#output-files)  
+- [Customization](#customization)  
+  - [Adding New Agents](#adding-new-agents)  
+  - [Modifying Search Behavior](#modifying-search-behavior)  
+  - [Customizing Reports](#customizing-reports)  
+- [Troubleshooting](#troubleshooting)  
+  - [Common Issues](#common-issues)  
+  - [Debugging](#debugging)  
+- [Contributing](#contributing)  
+- [License](#license)  
 
 
 ## Features
